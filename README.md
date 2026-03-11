@@ -299,7 +299,7 @@ class Color:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/codeswithhassan/Student-Management-System-Python-OOP-Console-Application-
 cd student-management-system
 ```
 
